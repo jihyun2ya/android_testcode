@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testfirst</string>
+    <string name="mvp">MVP activity</string>
+    <string name="mvc">MVC activity</string>
+    <string name="currency_error">가능한 코인명을 입력해주세요.</string>
+    <string name="btn_text">현재 가격 보기</string>
+    <string name="btn_chart">차트보기</string>
+</resources>
